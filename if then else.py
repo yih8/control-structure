@@ -9,7 +9,7 @@ else:
 
 print(b)
 
-if b==4:
+if b==6:
     a-=6
 else:
     a+=6
