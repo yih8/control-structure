@@ -1,4 +1,4 @@
-a=10
+a=4
 b=12
 
 
@@ -10,8 +10,8 @@ else:
 print(b)
 
 if b==6:
-    a-=6
-else:
     a+=6
+else:
+    a-=6
 
 print(a)
